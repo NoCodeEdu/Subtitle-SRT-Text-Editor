@@ -8,6 +8,10 @@ No install and no internet connection needed: open the HTML file in any modern b
 
 - `SRT-Editor.html`: the whole app in one file
 
+## Example
+
+- https://nocodeedu.github.io/Subtitle-SRT-Text-Editor/SRT-Editor.html
+  
 ## Features
 
 - Open `.srt` or `.txt` subtitle files with Upload or by dragging and dropping onto the page
